@@ -1,14 +1,14 @@
-# FinGenie AI 🏦🤖
+# FinGenie AI
 
 AI-powered banking relationship intelligence platform for customer risk analysis, financial insights, and relationship manager decision support.
 
-## 📌 About the Project
+##  About the Project
 
 FinGenie AI is a full-stack banking analytics application designed for relationship managers and banking teams. The platform allows users to onboard customers, analyze financial profiles, identify customer risk levels, calculate financial health scores, generate product recommendations, and obtain AI-driven relationship insights.
 
 ---
 
-## 🚀 Features
+## Features
 
 * Customer onboarding and profile management
 * Financial health score calculation
@@ -23,7 +23,7 @@ FinGenie AI is a full-stack banking analytics application designed for relations
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 
@@ -41,7 +41,7 @@ FinGenie AI is a full-stack banking analytics application designed for relations
 
 ---
 
-## 💡 What This Application Does
+## What This Application Does
 
 * Accepts banking customer information manually
 * Performs financial profile analysis
@@ -54,7 +54,7 @@ FinGenie AI is a full-stack banking analytics application designed for relations
 
 ---
 
-## 📊 Project Screenshots
+##  Project Screenshots
 
 * Dashboard Overview
 * Customer Analytics Dashboard
@@ -65,7 +65,7 @@ FinGenie AI is a full-stack banking analytics application designed for relations
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * User authentication and authorization
 * PostgreSQL database integration
@@ -76,7 +76,7 @@ FinGenie AI is a full-stack banking analytics application designed for relations
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Chaitanya Naga**
 
